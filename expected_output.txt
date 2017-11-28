@@ -1,0 +1,11 @@
+Please enter 3 numbers:
+Please enter 4 numbers:
+First list:         1 2 3 
+Second List:        4 5 6 7 
+Entering 27.7 at index 1 in first list
+First list:         1 27.7 3 
+Entering 12.3 at index 3 in second list
+Second List:        4 5 6 12.3 
+Entering 9999.9 at index 7 in second list
+Second List:        4 5 6 12.3 
+Concatinated Lists: 1 27.7 3 4 5 6 12.3 
